@@ -3,5 +3,10 @@
 git init
 git add README.md
 git commit -m "first commit"
+## replace origin with orginN
 git remote add origin https://github.com/Ipomoeabatatas/Ionic2Tutorial.git
 git push -u origin master
+
+
+# to send to master
+git push
